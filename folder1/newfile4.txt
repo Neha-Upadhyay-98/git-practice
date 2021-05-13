@@ -1,0 +1,3 @@
+this is the new file created using cat command in folder1
+thanks
+cat command can be used for creating a new file or appending the existing file or view the file contents

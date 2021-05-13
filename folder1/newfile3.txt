@@ -1,0 +1,1 @@
+cat command can be used for creating a new file or appending the existing file or view the file contents
